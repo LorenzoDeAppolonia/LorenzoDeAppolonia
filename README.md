@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently completing a bachelor in Data science and Artificial intelligence at SUPSI<br>🌱 I am currently learning about unsupervised learning and algorithm design <br>⚡ I am working on multiple projects involving LLMs and Retrieval augmented learning <br>🤝 I’m looking for help in learning more about the field of LLMs and their applications<br>
+⚡ I am currently working on a retrieval augmented generation machine learning project to laverage proprietary data for sector specific applications  <br>
+🔭 I’m currently completing a bachelor in Data science and Artificial intelligence at SUPSI<br>🌱 I am currently learning about unsupervised learning and algorithm design <br>🤝 I’m looking for help in learning more about the field of LLMs and their applications<br>
 
 
 ## 🌐 Socials:
